@@ -1,7 +1,7 @@
 <h1>SuchiTime 🍣</h1>
 
-to run this app open trminal and run : 
-npm install
+to run this app open trminal and run : <br/>
+npm install <br/>
 npm start
 
 <h2>Home page</h2>
