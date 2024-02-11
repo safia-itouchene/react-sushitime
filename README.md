@@ -1,5 +1,5 @@
 <h1>SuchiTime 🍣</h1>
-## made with react
+made with react<br/>
 to run this app open trminal and run : <br/>
 npm install <br/>
 npm start
